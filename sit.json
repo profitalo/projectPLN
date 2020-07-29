@@ -1,0 +1,15 @@
+{
+     "records":[
+        {
+          "fields": 
+             {
+                "sit": "Aprovado"
+             },
+        },
+        {  
+          "fields": 
+             {
+                "sit": "Reprovado"
+             },
+        }
+]}
