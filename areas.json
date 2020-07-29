@@ -1,5 +1,5 @@
-[
-     "records":[
+{
+     "records": [
         {
           "fields": 
              {
@@ -66,4 +66,4 @@
                 "areas": "TI"
              }
         }
-]]
+]}
