@@ -1,0 +1,43 @@
+{
+  "success": [
+    {
+      "cod": "Compras",
+      "txt": "Compras",
+      "fields": {}
+    },
+    {
+      "cod": "Diretoria",
+      "txt": "Diretoria",
+      "fields": {}
+    },
+    {
+      "cod": "Financeiro",
+      "txt": "Financeiro",
+      "fields": {}
+    },
+    {
+      "cod": "Operacional",
+      "txt": "Operacional",
+      "fields": {}
+    },
+    {
+      "cod": "Presidência",
+      "txt": "Presidência",
+      "fields": {}
+    },
+    {
+      "cod": "Recursos Humanos",
+      "txt": "Recursos Humanos",
+      "fields": {}
+    },
+    {
+      "cod": "Tecnologia da Informação",
+      "txt": "Tecnologia da Informação",
+      "fields": {}
+    }
+  ],
+  "cache": false,
+  "datasource": 920,
+  "runtime": 0,
+  "bytes": 2074
+}
