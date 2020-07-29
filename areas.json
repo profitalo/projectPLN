@@ -1,35 +1,69 @@
-[
-   {
-      "areas": "Administrativo"
-   },
-   {
-      "areas": "Administrativo Financeiro"
-   },
-   {
-      "areas": "Comercial"
-   },
-   {
-      "areas": "Desenvolvimento"
-   },
-   {
-      "areas": "Diretoria"
-   },
-   {
-      "areas": "Infraestrutura"
-   },
-   {
-      "areas": "Marketing"
-   },
-   {
-      "areas": "Organizacional"
-   },
-   {
-      "areas": "Qualidade"
-   },
-   {
-      "areas": "Suporte"
-   },
-   {
-      "areas": "TI"
-   }
-]
+{
+     "records":[
+        {
+          "fields": 
+             {
+                "areas": "Administrativo"
+             },
+        },
+        {  
+          "fields": 
+             {
+                "areas": "Administrativo Financeiro"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Comercial"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Desenvolvimento"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Diretoria"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Infraestrutura"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Marketing"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Organizacional"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Qualidade"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "Suporte"
+             },
+        },
+        {  
+          "fields":
+             {
+                "areas": "TI"
+             }
+        }
+]}
