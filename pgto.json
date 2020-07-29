@@ -1,0 +1,33 @@
+{
+     "records":[
+        {
+          "fields": 
+             {
+                "pgto": "Boleto"
+             },
+        },
+        {  
+          "fields": 
+             {
+                "pgto": "Cartão de Crédito"
+             },
+        },
+        {  
+          "fields":
+             {
+                "pgto": "Cheque"
+             },
+        },
+        {  
+          "fields":
+             {
+                "pgto": "Depósito Bancário"
+             },
+        },
+        {  
+          "fields":
+             {
+                "pgto": "Dinheiro"
+             },
+        }
+]}
