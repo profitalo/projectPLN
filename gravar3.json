@@ -1,0 +1,50 @@
+[
+{
+"id": "1",
+"dataAgendamento": "01/03/2021",
+"descAgendamento": "Definir produtos",
+"horaInicio": "9:00",
+"horaFim": "11:00",
+"tecnicoResp": "Carlos Eduardo P. de Alencar",
+"prestador": "Não",
+"codUnidade": "2755",
+"statusAgendamento": "Realizado",
+"reprovarAgendamento": "false"
+},
+{
+"id": "2",
+"dataAgendamento": "02/03/2021",
+"descAgendamento": "Aplicar teoria técnica in loco",
+"horaInicio": "9:00",
+"horaFim": "11:00",
+"tecnicoResp": "Carlos Eduardo P. de Alencar",
+"prestador": "Não",
+"codUnidade": "2755",
+"statusAgendamento": "Realizado",
+"reprovarAgendamento": "false"
+},
+{
+"id": "2",
+"dataAgendamento": "03/03/2021",
+"descAgendamento": "Aplicar teoria técnica in loco",
+"horaInicio": "9:00",
+"horaFim": "11:00",
+"tecnicoResp": "Carlos Eduardo P. de Alencar",
+"prestador": "Não",
+"codUnidade": "2755",
+"statusAgendamento": "Em andamento",
+"reprovarAgendamento": "false"
+},
+{
+"id": "3",
+"dataAgendamento": "04/03/2021",
+"descAgendamento": "Aplicar teoria técnica in loco",
+"horaInicio": "9:00",
+"horaFim": "12:00",
+"tecnicoResp": "Fabio Correia de Melo",
+"prestador": "Não",
+"codUnidade": "2755",
+"statusAgendamento": "A realizar",
+"reprovarAgendamento": "false"
+}
+]
