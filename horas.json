@@ -1,4 +1,4 @@
-"records":{[ 
+{"records":[ 
   { "fields": { "id": "0", "horas": "00:00" } },
 { "fields": { "id": "1", "horas": "01:00" } },
 { "fields": { "id": "2", "horas": "02:00" } },
