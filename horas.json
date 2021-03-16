@@ -1,4 +1,4 @@
-{ "records": [ { "fields": { "id": "0", "horas": "00:00" }, },
+[ { "fields": { "id": "0", "horas": "00:00" }, },
 { "fields": { "id": "1", "horas": "01:00" }, },
 { "fields": { "id": "2", "horas": "02:00" }, },
 { "fields": { "id": "3", "horas": "03:00" }, },
@@ -21,4 +21,4 @@
 { "fields": { "id": "20", "horas": "20:00" }, },
 { "fields": { "id": "21", "horas": "21:00" }, },
 { "fields": { "id": "22", "horas": "22:00" }, },
-{ "fields": { "id": "23", "horas": "23:00" } } ]}
+{ "fields": { "id": "23", "horas": "23:00" } } ]
